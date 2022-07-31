@@ -8,23 +8,29 @@ This is a student project aimed to learn animation algorithms and techniques.
 改动，着重实现了人物的脚步IK动画。通过OpenGL以及部分第三方库，实现了一条完整的动画管线，
 搭建了一个简单的动画引擎。
 
-项目介绍:
+
+项目简介:
+
 
 
 主程序 
 
-提供了一个控制台调试窗口以及一个Win32窗口程序，用nuklear来实现UI接口
+提供了一个控制台调试窗口以及一个Win32窗口程序，用nuklear来实现UI接口。
+
+
 
 
 数学引擎 
 
-实现了2D，3D，4D向量，四元数，对偶四元数，矩阵及其相关操作
+实现了2D，3D，4D向量，四元数，对偶四元数，矩阵及其相关操作。
 
-将变换信息封装到SQT（缩放、旋转、平移）结构中
+将变换信息封装到SQT（缩放、旋转、平移）结构中。
 
-提供了Bezier和Hermite两种插值样条
+提供了Bezier和Hermite两种插值样条。
 
-在CPU中实现了光线与三角形求交算法
+在CPU中实现了光线与三角形求交算法。
+
+
 
 
 资产管道 
@@ -34,10 +40,14 @@ This is a student project aimed to learn animation algorithms and techniques.
 利用stb_image读取纹理数据到OpenGL并绑定到模型。
 
 
+
+
 渲染框架 
 
 基于OpenGL搭建了一个简易渲染框架，通过编写一系列API将Shader文件操作封装到
-一个单独的对象中
+一个单独的对象中。
+
+
 
 
 动画系统 
