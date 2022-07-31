@@ -10,26 +10,35 @@ This is a student project aimed to learn animation algorithms and techniques.
 
 项目介绍:
 
+
 主程序 
 
 提供了一个控制台调试窗口以及一个Win32窗口程序，用nuklear来实现UI接口
 
+
 数学引擎 
 
 实现了2D，3D，4D向量，四元数，对偶四元数，矩阵及其相关操作
+
 将变换信息封装到SQT（缩放、旋转、平移）结构中
+
 提供了Bezier和Hermite两种插值样条
+
 在CPU中实现了光线与三角形求交算法
+
 
 资产管道 
 
 利用cgltf将gltf文件数据加载到引擎中，完成动画数据和模型数据的提取。
+
 利用stb_image读取纹理数据到OpenGL并绑定到模型。
+
 
 渲染框架 
 
 基于OpenGL搭建了一个简易渲染框架，通过编写一系列API将Shader文件操作封装到
 一个单独的对象中
+
 
 动画系统 
 
