@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Shader">
+      <UniqueIdentifier>{4a4bd482-9533-437d-a30c-2d079559aea3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Animation">
+      <UniqueIdentifier>{e65556a5-3998-4ae3-ac52-7686ad3d3cee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Animation\Blending">
+      <UniqueIdentifier>{b265cd92-8088-4216-963d-876388ce7f4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Animation">
+      <UniqueIdentifier>{e33d8ca1-4c2d-42f9-b272-2faec498a3cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Animation\Blending">
+      <UniqueIdentifier>{008fd3bb-022a-4c1c-9536-a8f5eb146742}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Animation\IK">
+      <UniqueIdentifier>{a739166a-dc01-4c1f-9a63-40424a8e5f81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Animation\IK">
+      <UniqueIdentifier>{f86c01e7-aac9-4e83-bef5-7c2fe466f3a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Rendering">
+      <UniqueIdentifier>{4b8fa9be-5dd4-4f9a-afcc-a339fd85d01c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Rendering">
+      <UniqueIdentifier>{013f5edf-38e9-4572-9507-55dab5ce54d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Math">
+      <UniqueIdentifier>{a14a1eb8-3a00-4032-9756-3678a584461e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Math">
+      <UniqueIdentifier>{db7b2f42-7684-41f4-84fb-c821ed075d90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\OpenGL">
+      <UniqueIdentifier>{020e81cf-71b9-44db-b910-78fe9f5c0e03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\OpenGL">
+      <UniqueIdentifier>{d7c36e10-ca93-46ea-a5d1-6ade03b4ceac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\GLTF">
+      <UniqueIdentifier>{9da4b9d4-ab12-498e-9b64-9e949241a51b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\GLTF">
+      <UniqueIdentifier>{5c56df0a-0de5-4185-93dc-af8f055e0d09}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Application.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TestMain.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Blending.h">
+      <Filter>头文件\Animation\Blending</Filter>
+    </ClInclude>
+    <ClInclude Include="CrossFadeTarget.h">
+      <Filter>头文件\Animation\Blending</Filter>
+    </ClInclude>
+    <ClInclude Include="CrossFadeController.h">
+      <Filter>头文件\Animation\Blending</Filter>
+    </ClInclude>
+    <ClInclude Include="CCDSolver.h">
+      <Filter>头文件\Animation\IK</Filter>
+    </ClInclude>
+    <ClInclude Include="FABRIKSolver.h">
+      <Filter>头文件\Animation\IK</Filter>
+    </ClInclude>
+    <ClInclude Include="DebugDraw.h">
+      <Filter>头文件\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="IKLeg.h">
+      <Filter>头文件\Animation\IK</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix.h">
+      <Filter>头文件\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2.h">
+      <Filter>头文件\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector3.h">
+      <Filter>头文件\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector4.h">
+      <Filter>头文件\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Quat.h">
+      <Filter>头文件\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Transform.h">
+      <Filter>头文件\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Spline.h">
+      <Filter>头文件\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Hermite.h">
+      <Filter>头文件\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Bezier.h">
+      <Filter>头文件\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Intersection.h">
+      <Filter>头文件\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="MyMath.h">
+      <Filter>头文件\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Attribute.h">
+      <Filter>头文件\OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="Draw.h">
+      <Filter>头文件\OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>头文件\OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>头文件\OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="Uniform.h">
+      <Filter>头文件\OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="IndexBuffer.h">
+      <Filter>头文件\OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>头文件\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="Point4.h">
+      <Filter>头文件\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="GLTFLoader.h">
+      <Filter>头文件\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="Clip.h">
+      <Filter>头文件\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Frame.h">
+      <Filter>头文件\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Pose.h">
+      <Filter>头文件\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="RearrangeBones.h">
+      <Filter>头文件\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Skeleton.h">
+      <Filter>头文件\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Track.h">
+      <Filter>头文件\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="TransformTrack.h">
+      <Filter>头文件\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="DualQuaternion.h">
+      <Filter>头文件\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimTexture.h">
+      <Filter>头文件\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimBaker.h">
+      <Filter>头文件\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="Crowd.h">
+      <Filter>头文件\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="nuklear.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="khrplatform.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="glad.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="cgltf.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glad.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TestMain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Blending.cpp">
+      <Filter>源文件\Animation\Blending</Filter>
+    </ClCompile>
+    <ClCompile Include="CrossFadeController.cpp">
+      <Filter>源文件\Animation\Blending</Filter>
+    </ClCompile>
+    <ClCompile Include="CCDSolver.cpp">
+      <Filter>源文件\Animation\IK</Filter>
+    </ClCompile>
+    <ClCompile Include="FABRIKSolver.cpp">
+      <Filter>源文件\Animation\IK</Filter>
+    </ClCompile>
+    <ClCompile Include="DebugDraw.cpp">
+      <Filter>源文件\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="IKLeg.cpp">
+      <Filter>源文件\Animation\IK</Filter>
+    </ClCompile>
+    <ClCompile Include="Intersection.cpp">
+      <Filter>源文件\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="Uniform.cpp">
+      <Filter>源文件\OpenGL</Filter>
+    </ClCompile>
+    <ClCompile Include="Draw.cpp">
+      <Filter>源文件\OpenGL</Filter>
+    </ClCompile>
+    <ClCompile Include="IndexBuffer.cpp">
+      <Filter>源文件\OpenGL</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>源文件\OpenGL</Filter>
+    </ClCompile>
+    <ClCompile Include="stb_image.cpp">
+      <Filter>源文件\OpenGL</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>源文件\OpenGL</Filter>
+    </ClCompile>
+    <ClCompile Include="Attribute.cpp">
+      <Filter>源文件\OpenGL</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>源文件\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="cgltf.c">
+      <Filter>头文件\GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="GLTFLoader.cpp">
+      <Filter>源文件\GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="Clip.cpp">
+      <Filter>源文件\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Pose.cpp">
+      <Filter>源文件\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="RearrangeBones.cpp">
+      <Filter>源文件\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Skeleton.cpp">
+      <Filter>源文件\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Track.cpp">
+      <Filter>源文件\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="TransformTrack.cpp">
+      <Filter>源文件\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="DualQuaternion.cpp">
+      <Filter>源文件\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimTexture.cpp">
+      <Filter>源文件\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimBaker.cpp">
+      <Filter>源文件\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="Crowd.cpp">
+      <Filter>源文件\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="nuklear.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="skinned.vert">
+      <Filter>Shader</Filter>
+    </None>
+  </ItemGroup>
+</Project>

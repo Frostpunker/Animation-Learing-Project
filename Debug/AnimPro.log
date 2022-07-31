@@ -1,0 +1,576 @@
+﻿  AnimBaker.cpp
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(36,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(465): message : 查看对正在编译的 类 模板 实例化“Matrix<T,S>”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(50,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(70,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(203,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(207,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(215,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(262,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(270,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(286,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(294,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(313,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(321,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(339,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(347,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(365,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(373,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(391,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(412,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(429,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(444,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+  AnimTexture.cpp
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(36,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(465): message : 查看对正在编译的 类 模板 实例化“Matrix<T,S>”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(50,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(70,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(203,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(207,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(215,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(262,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(270,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(286,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(294,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(313,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(321,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(339,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(347,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(365,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(373,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(391,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(412,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(429,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(444,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+  Attribute.cpp
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(36,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(465): message : 查看对正在编译的 类 模板 实例化“Matrix<T,S>”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(50,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(70,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(203,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(207,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(215,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(262,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(270,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(286,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(294,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(313,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(321,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(339,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(347,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(365,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(373,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(391,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(412,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(429,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(444,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+  Blending.cpp
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(36,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(465): message : 查看对正在编译的 类 模板 实例化“Matrix<T,S>”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(50,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(70,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(203,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(207,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(215,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(262,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(270,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(286,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(294,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(313,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(321,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(339,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(347,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(365,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(373,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(391,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(412,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(429,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(444,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Blending.cpp(54,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\_LearningOpenGL\AnimationProject\AnimPro\Quat.h(180,6): warning C4244: “初始化”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\_LearningOpenGL\AnimationProject\AnimPro\Blending.cpp(64): message : 查看对正在编译的函数 模板 实例化“Quat<float> inverse<float>(const Quat<float> &)”的引用
+  CCDSolver.cpp
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(36,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(465): message : 查看对正在编译的 类 模板 实例化“Matrix<T,S>”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(50,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(70,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(203,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(207,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(215,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(262,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(270,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(286,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(294,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(313,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(321,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(339,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(347,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(365,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(373,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(391,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(412,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(429,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(444,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Quat.h(180,6): warning C4244: “初始化”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\_LearningOpenGL\AnimationProject\AnimPro\CCDSolver.cpp(103): message : 查看对正在编译的函数 模板 实例化“Quat<float> inverse<float>(const Quat<float> &)”的引用
+  Clip.cpp
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(36,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(465): message : 查看对正在编译的 类 模板 实例化“Matrix<T,S>”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(50,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(70,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(203,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(207,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(215,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(262,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(270,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(286,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(294,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(313,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(321,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(339,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(347,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(365,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(373,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(391,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(412,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(429,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(444,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+  CrossFadeController.cpp
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(36,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(465): message : 查看对正在编译的 类 模板 实例化“Matrix<T,S>”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(50,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(70,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(203,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(207,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(215,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(262,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(270,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(286,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(294,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(313,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(321,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(339,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(347,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(365,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(373,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(391,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(412,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(429,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(444,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+  Crowd.cpp
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(36,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(465): message : 查看对正在编译的 类 模板 实例化“Matrix<T,S>”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(50,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(70,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(203,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(207,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(215,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(262,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(270,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(286,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(294,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(313,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(321,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(339,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(347,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(365,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(373,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(391,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(412,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(429,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(444,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+  DebugDraw.cpp
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(36,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(465): message : 查看对正在编译的 类 模板 实例化“Matrix<T,S>”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(50,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(70,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(203,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(207,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(215,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(262,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(270,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(286,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(294,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(313,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(321,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(339,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(347,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(365,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(373,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(391,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(412,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(429,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(444,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+  FABRIKSolver.cpp
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(36,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(465): message : 查看对正在编译的 类 模板 实例化“Matrix<T,S>”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(50,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(70,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(203,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(207,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(215,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(262,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(270,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(286,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(294,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(313,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(321,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(339,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(347,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(365,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(373,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(391,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(412,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(429,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(444,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\FABRIKSolver.cpp(136,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\_LearningOpenGL\AnimationProject\AnimPro\Quat.h(180,6): warning C4244: “初始化”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\_LearningOpenGL\AnimationProject\AnimPro\FABRIKSolver.cpp(104): message : 查看对正在编译的函数 模板 实例化“Quat<float> inverse<float>(const Quat<float> &)”的引用
+  GLTFLoader.cpp
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(36,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(465): message : 查看对正在编译的 类 模板 实例化“Matrix<T,S>”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(50,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(70,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(203,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(207,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(215,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(262,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(270,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(286,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(294,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(313,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(321,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(339,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(347,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(365,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(373,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(391,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(412,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(429,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(444,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\GLTFLoader.cpp(416,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\_LearningOpenGL\AnimationProject\AnimPro\GLTFLoader.cpp(493,32): warning C4018: “<”: 有符号/无符号不匹配
+D:\_LearningOpenGL\AnimationProject\AnimPro\Quat.h(180,6): warning C4244: “初始化”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\_LearningOpenGL\AnimationProject\AnimPro\Transform.h(111): message : 查看对正在编译的函数 模板 实例化“Quat<float> inverse<float>(const Quat<float> &)”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\GLTFLoader.cpp(11): message : 查看对正在编译的函数 模板 实例化“Transform<float> mat4ToTransform<float>(const Matrix<float,4> &)”的引用
+  IKLeg.cpp
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(36,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(465): message : 查看对正在编译的 类 模板 实例化“Matrix<T,S>”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(50,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(70,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(203,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(207,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(215,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(262,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(270,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(286,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(294,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(313,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(321,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(339,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(347,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(365,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(373,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(391,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(412,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(429,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(444,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Quat.h(180,6): warning C4244: “初始化”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\_LearningOpenGL\AnimationProject\AnimPro\Transform.h(43): message : 查看对正在编译的函数 模板 实例化“Quat<float> inverse<float>(const Quat<float> &)”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\IKLeg.cpp(110): message : 查看对正在编译的函数 模板 实例化“Transform<float> inverse<float>(const Transform<float> &)”的引用
+  Intersection.cpp
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(36,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(465): message : 查看对正在编译的 类 模板 实例化“Matrix<T,S>”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(50,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(70,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(203,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(207,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(215,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(262,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(270,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(286,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(294,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(313,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(321,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(339,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(347,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(365,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(373,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(391,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(412,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(429,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(444,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+  Mesh.cpp
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(36,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(465): message : 查看对正在编译的 类 模板 实例化“Matrix<T,S>”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(50,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(70,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(203,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(207,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(215,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(262,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(270,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(286,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(294,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(313,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(321,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(339,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(347,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(365,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(373,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(391,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(412,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(429,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(444,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Quat.h(180,6): warning C4244: “初始化”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\_LearningOpenGL\AnimationProject\AnimPro\Transform.h(111): message : 查看对正在编译的函数 模板 实例化“Quat<float> inverse<float>(const Quat<float> &)”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\Mesh.cpp(223): message : 查看对正在编译的函数 模板 实例化“Transform<float> mat4ToTransform<float>(const Matrix<float,4> &)”的引用
+  Pose.cpp
+D:\_LearningOpenGL\AnimationProject\AnimPro\Pose.cpp(1,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(36,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(465): message : 查看对正在编译的 类 模板 实例化“Matrix<T,S>”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(50,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(70,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(203,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(207,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(215,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(262,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(270,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(286,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(294,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(313,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(321,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(339,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(347,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(365,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(373,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(391,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(412,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(429,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(444,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+  RearrangeBones.cpp
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(36,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(465): message : 查看对正在编译的 类 模板 实例化“Matrix<T,S>”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(50,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(70,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(203,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(207,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(215,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(262,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(270,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(286,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(294,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(313,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(321,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(339,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(347,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(365,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(373,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(391,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(412,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(429,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(444,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+  Skeleton.cpp
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(36,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(465): message : 查看对正在编译的 类 模板 实例化“Matrix<T,S>”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(50,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(70,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(203,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(207,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(215,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(262,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(270,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(286,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(294,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(313,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(321,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(339,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(347,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(365,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(373,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(391,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(412,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(429,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(444,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Quat.h(180,6): warning C4244: “初始化”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\_LearningOpenGL\AnimationProject\AnimPro\Transform.h(43): message : 查看对正在编译的函数 模板 实例化“Quat<float> inverse<float>(const Quat<float> &)”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\Skeleton.cpp(27): message : 查看对正在编译的函数 模板 实例化“Transform<float> inverse<float>(const Transform<float> &)”的引用
+  TestMain.cpp
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(36,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(465): message : 查看对正在编译的 类 模板 实例化“Matrix<T,S>”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(50,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(70,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(203,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(207,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(215,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(262,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(270,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(286,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(294,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(313,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(321,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(339,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(347,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(365,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(373,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(391,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(412,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(429,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(444,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\TestMain.cpp(481,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\_LearningOpenGL\AnimationProject\AnimPro\Quat.h(180,6): warning C4244: “初始化”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\_LearningOpenGL\AnimationProject\AnimPro\TestMain.cpp(458): message : 查看对正在编译的函数 模板 实例化“Quat<float> inverse<float>(const Quat<float> &)”的引用
+  Track.cpp
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(36,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(465): message : 查看对正在编译的 类 模板 实例化“Matrix<T,S>”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(50,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(70,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(203,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(207,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(215,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(262,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(270,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(286,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(294,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(313,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(321,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(339,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(347,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(365,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(373,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(391,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(412,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(429,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(444,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Track.cpp(224,33): warning C4018: “>=”: 有符号/无符号不匹配
+D:\_LearningOpenGL\AnimationProject\AnimPro\Track.cpp(221): message : 在编译 类 模板 成员函数“T Track<T,1>::SampleLinear(float,bool)”时
+          with
+          [
+              T=float
+          ]
+D:\_LearningOpenGL\AnimationProject\AnimPro\Track.cpp(72): message : 查看对正在编译的函数 模板 实例化“T Track<T,1>::SampleLinear(float,bool)”的引用
+          with
+          [
+              T=float
+          ]
+D:\_LearningOpenGL\AnimationProject\AnimPro\Track.cpp(2): message : 查看对正在编译的 类 模板 实例化“Track<float,1>”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\Track.cpp(245,33): warning C4018: “>=”: 有符号/无符号不匹配
+D:\_LearningOpenGL\AnimationProject\AnimPro\Track.cpp(243): message : 在编译 类 模板 成员函数“T Track<T,1>::SampleCubic_Her(float,bool)”时
+          with
+          [
+              T=float
+          ]
+D:\_LearningOpenGL\AnimationProject\AnimPro\Track.cpp(74): message : 查看对正在编译的函数 模板 实例化“T Track<T,1>::SampleCubic_Her(float,bool)”的引用
+          with
+          [
+              T=float
+          ]
+  TransformTrack.cpp
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(36,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(465): message : 查看对正在编译的 类 模板 实例化“Matrix<T,S>”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(50,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(70,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(203,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(207,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(215,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(262,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(270,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(286,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(294,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(313,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(321,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(339,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(347,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(365,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(373,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(391,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(412,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(429,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(444,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+  正在生成代码...
+D:\_LearningOpenGL\AnimationProject\AnimPro\Track.cpp(150): warning C4715: “Track<float,1>::FrameIndex”: 不是所有的控件路径都返回值
+D:\_LearningOpenGL\AnimationProject\AnimPro\Track.cpp(150): warning C4715: “Track<Vector3<float>,3>::FrameIndex”: 不是所有的控件路径都返回值
+D:\_LearningOpenGL\AnimationProject\AnimPro\Track.cpp(150): warning C4715: “Track<Quat<float>,4>::FrameIndex”: 不是所有的控件路径都返回值
+D:\_LearningOpenGL\AnimationProject\AnimPro\DualQuaternion.h(78): warning C4715: “DualQuaternion<float>::operator=”: 不是所有的控件路径都返回值
+D:\_LearningOpenGL\AnimationProject\AnimPro\DualQuaternion.h(78): warning C4715: “DualQuaternion<float>::operator=”: 不是所有的控件路径都返回值
+  正在编译...
+  Uniform.cpp
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(36,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(465): message : 查看对正在编译的 类 模板 实例化“Matrix<T,S>”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(50,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(70,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(203,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(207,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(215,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(262,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(270,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(286,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(294,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(313,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(321,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(339,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(347,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(365,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(373,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(391,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(412,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(429,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(444,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+  WinMain.cpp
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(36,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(465): message : 查看对正在编译的 类 模板 实例化“Matrix<T,S>”的引用
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(50,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(70,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(203,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(207,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(215,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(262,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(270,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(286,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(294,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(313,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(321,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(339,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(347,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(365,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(373,8): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(391,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(412,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(429,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\Matrix.h(444,3): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+D:\_LearningOpenGL\AnimationProject\AnimPro\WinMain.cpp(188,17): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+D:\_LearningOpenGL\AnimationProject\AnimPro\WinMain.cpp(205,18): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+  正在生成代码...
+  AnimPro.vcxproj -> D:\_LearningOpenGL\AnimationProject\AnimPro\Debug\AnimPro.exe

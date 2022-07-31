@@ -1,0 +1,2 @@
+D:\_LearningOpenGL\AnimationProject\AnimPro\Debug\AnimPro.exe
+D:\_LearningOpenGL\AnimationProject\AnimPro\Debug\AnimPro.pdb
