@@ -27,7 +27,6 @@ This is a student project aimed to learn animation algorithms and techniques.
 一个单独的对象中
 
 动画系统
-
 核心：实现了动画帧、动画轨迹、动画片段、骨骼、姿势等数据结构。从GLTF文件中读取
 的动画数据将会写入这些结构，引擎会依照固定的帧率对上述部分数据进行采样，根据当前
 播放时间对动画帧进行插值以更新模型动画。
